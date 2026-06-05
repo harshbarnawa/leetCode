@@ -1,5 +1,6 @@
-class Solution {
-public:
+#include<bits/stdc++.h>
+using namespace std;
+
     int totalWaviness(int num1, int num2) {
         int ans = 0;
 
@@ -15,4 +16,12 @@ public:
 
         return ans;
     }
-};
+
+int main() {
+    int num1, num2;
+    cin >> num1 >> num2;
+
+    cout << totalWaviness(num1, num2);
+
+    return 0;
+}
