@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/harshbarnawa/leetCode/tree/master/0115-distinct-subsequences) |
+| [0940-distinct-subsequences-ii](https://github.com/harshbarnawa/leetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1872-stone-game-viii](https://github.com/harshbarnawa/leetCode/tree/master/1872-stone-game-viii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/harshbarnawa/leetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Number Theory
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/harshbarnawa/leetCode/tree/master/0115-distinct-subsequences) |
+| [0940-distinct-subsequences-ii](https://github.com/harshbarnawa/leetCode/tree/master/0940-distinct-subsequences-ii) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/harshbarnawa/leetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/harshbarnawa/leetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/harshbarnawa/leetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
