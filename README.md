@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/harshbarnawa/leetCode/tree/master/0046-permutations) |
+| [0835-image-overlap](https://github.com/harshbarnawa/leetCode/tree/master/0835-image-overlap) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/harshbarnawa/leetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1872-stone-game-viii](https://github.com/harshbarnawa/leetCode/tree/master/1872-stone-game-viii) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/harshbarnawa/leetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/harshbarnawa/leetCode/tree/master/0835-image-overlap) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/harshbarnawa/leetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Backtracking
 |  |
