@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/harshbarnawa/leetCode/tree/master/0046-permutations) |
+| [0053-maximum-subarray](https://github.com/harshbarnawa/leetCode/tree/master/0053-maximum-subarray) |
 | [0835-image-overlap](https://github.com/harshbarnawa/leetCode/tree/master/0835-image-overlap) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/harshbarnawa/leetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/harshbarnawa/leetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/harshbarnawa/leetCode/tree/master/0053-maximum-subarray) |
 | [0115-distinct-subsequences](https://github.com/harshbarnawa/leetCode/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/harshbarnawa/leetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/harshbarnawa/leetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -255,4 +257,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/harshbarnawa/leetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/harshbarnawa/leetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/harshbarnawa/leetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/harshbarnawa/leetCode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
